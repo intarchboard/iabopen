@@ -1,6 +1,6 @@
 *When:* Tue 2020-07-28 13:00 UTC
 
-*Where:* [GITHUB]
+*Where:* [WebEx]
 
 *Chairs:* Mirja Kühlewind, Tommy Pauly
 
