@@ -1,8 +1,8 @@
-*When:*
+*When:* Tue 2020-07-28 13:00 UTC
 
-*Where:*
+*Where:* [GITHUB]
 
-*Chairs:*
+*Chairs:* Mirja Kühlewind, Tommy Pauly
 
 ## Topics
 
