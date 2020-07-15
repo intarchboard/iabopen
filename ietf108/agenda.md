@@ -9,14 +9,14 @@
 ### Welcome and Status Update (10 mins) - Tommy and Mirja 
 
 ### Documents (5 mins)
-* draft-iab-for-the-users
+* draft-iab-for-the-users - Mark
 
 ### Workshops (5 mins)
 * DEDR - Jari
 * Impacts of COVID-19 - Jari
 
 ### Program Status (20 mins)
-* Model-t
+* Model-t - Stephen
 * Proposed Program on Evolvability, Deployability, and Maintainability (EDM) - Tommy
 
 ### Open Mic (10 mins)
