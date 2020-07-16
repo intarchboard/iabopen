@@ -12,8 +12,8 @@
 * draft-iab-for-the-users - Mark
 
 ### Workshops (5 mins)
-* DEDR - Jari
-* Impacts of COVID-19 - Jari
+* DEDR workshop report - Jari
+* Proposed workshop on COVID-19 Network Impacts - Jari
 
 ### Program Status (20 mins)
 * Model-t - Stephen
