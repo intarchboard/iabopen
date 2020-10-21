@@ -9,10 +9,10 @@
 ### Welcome and Status Update (10 mins) - Wes and Mirja 
 
 ### COVID-19 Network Impacts Workshop (10 mins)
-- Jari?
+- Jari
 
 ### Evolvability, Deployability, & Maintainability (EDM) Program (10 mins)
-- Tommy?
+- Tommy
 
 ### Internet Threat Model (model-t) Program (10 mins)
 - Stephen?
