@@ -1,0 +1,4 @@
+body {font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;}
+table {border-collapse: collapse; width: 80%;}
+td, th {border: 1px solid #ddd; padding: 8px;}
+tr:nth-child(even){background-color: #f2f2f2;}
