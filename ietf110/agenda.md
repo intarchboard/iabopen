@@ -1,8 +1,6 @@
-# IABopen at IETF-110 online
-
 *When:* Thursday, March 11, 2021, 15:30-16:30 UTC+1
 
-*Where:* https://meetings.conf.meetecho.com/ietf110/?group=iabopen&short=&item=1
+*Where:* [https://meetings.conf.meetecho.com/ietf110/?group=iabopen&short=&item=1](https://meetings.conf.meetecho.com/ietf110/?group=iabopen&short=&item=1)
 
 *Chairs:* Mirja Kühlewind, Zhenbin Li
 
