@@ -8,7 +8,14 @@
 
 ## Topics
 
-### Welcome and Status Update (10 mins) - Zhenbin and Mirja
+### Welcome and Status Update (20 mins) - Zhenbin and Mirja
+* Document Updates
+  - RFC 8980: Report from the IAB Workshop on Design Expectations vs. Deployment Reality in Protocol Development
+  - draft-iab-covid19-workshop-01: Report from the IAB COVID-19 Network Impacts Workshop 2020
+* Program Updates
+  - IAB IETF-IANA Group
+  - Liaison Oversight Program closed
+* Updates on Liaison Management  
 
 ### Evolvability, Deployability, & Maintainability (EDM) Program (10 mins) - Tommy
 
