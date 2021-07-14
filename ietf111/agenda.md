@@ -6,12 +6,13 @@
 
 ## Topics
 
-### Welcome and Status Update (10 mins) -  Mirja
+### Welcome and Status Update (10 mins) -  Mirja/Jared
 * Document Updates
   - RFC 9075: Report from the IAB COVID-19 Network Impacts Workshop 2020
   - Approved for publication:
         - draft-iab-arpa-authoritative-servers: Nameservers for the Address and Routing Parameter Area ("arpa") Domain
 * Program Updates
+  - model-t
 
 ### Updates on Liaison Management  (10 mins) - Wes
 
