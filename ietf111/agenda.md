@@ -16,12 +16,13 @@
 
 ### Updates on Liaison Management  (10 mins) - Wes
 
-### Considerations on Application - Network Collaboration Using Path Signals (10 mins) - Jari
-* draft-arkko-iab-path-signals-collaboration
-
 ### Evolvability, Deployability, & Maintainability (EDM) Program (10 mins) - Tommy
 * Documents under consideration
   - draft-iab-protocol-maintenance
   - draft-iab-use-it-or-lose-it
+  
+### Considerations on Application - Network Collaboration Using Path Signals (10 mins) - Jari
+* draft-arkko-iab-path-signals-collaboration
+
 
 ### Open Mic (10 mins)
