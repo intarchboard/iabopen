@@ -13,6 +13,7 @@
   - Under discussion in the IAB: draft-arkko-iab-path-signals-collaboration: Considerations on Application - Network Collaboration Using Path Signals
 * Program Updates
   - model-t
+  - RFC Editor Future Development: draft-iab-rfcefdp-rfced-model finished last call on Nov 5
 *  UPCOMING: IAB Workshop on Analyzing IETF Data (AID)
 
 ### Evolvability, Deployability, & Maintainability (EDM) Program (10 mins) - Tommy
@@ -20,6 +21,6 @@
   - draft-iab-protocol-maintenance
   - NEW: draft-eckel-edm-find-code
   
-### Report: IAB Workshop on Measuring Network Quality for End-Users (15 mins) - 
+### Report: IAB Workshop on Measuring Network Quality for End-Users (15 mins) - Wes
 
 ### Open Mic (10 mins)
