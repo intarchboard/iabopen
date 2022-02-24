@@ -18,7 +18,7 @@
 * Program Updates
   - model-t
   - Evolvability, Deployability, & Maintainability (EDM) Program
-  - RFC Editor Future Development Program: will be closed with publication of draft-iab-rfcefdp-rfced-mode -> Thanks to all, especially the chairs Eliot and Brian and Peter as document editor!
+  - RFC Editor Future Development Program: will be closed with publication of draft-iab-rfcefdp-rfced-model -> Thanks to all, especially the chairs Eliot and Brian and Peter as document editor!
 * Liaison Updates
   
 ### Report: IAB Workshop on Analyzing IETF Data (AID), Nov/Dec 2021 (10 mins) - Niels
