@@ -24,7 +24,7 @@
 ### Report: IAB Workshop on Analyzing IETF Data (AID), Nov/Dec 2021 (10 mins) - Niels
 
 ### Discussion on (de)centralization (40 minutes)
-* An Empirical View on Consolidation of the Web (5 mins) - Vaibhav Bajpai
+* An Empirical View on Consolidation of the Web (5 mins) - Viet Doan
 * Centralization and Internet Standards: draft-nottingham-avoiding-internet-centralization-02 (10 mins) - Mark Nottingham
 * Discover Mechanism in Protocol Design (10 mins) - Jari Arkko
 
