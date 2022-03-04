@@ -24,6 +24,7 @@
 ### Report: IAB Workshop on Analyzing IETF Data (AID), Nov/Dec 2021 (10 mins) - Niels
 
 ### Discussion on (de)centralization (40 minutes)
+* Market concentration for CDNs based on Top (1M, 10k, 1k) sites - Mat Ford
 * An Empirical View on Consolidation of the Web (5 mins) - Viet Doan
 * Centralization and Internet Standards: draft-nottingham-avoiding-internet-centralization-02 (10 mins) - Mark Nottingham
 * Discover Mechanism in Protocol Design (10 mins) - Jari Arkko
