@@ -10,15 +10,16 @@
 
 ### Welcome and Status Update (5 mins) -  Mirja/David/Jared
 * Document Updates
-  - RFC 9280 (was draft-iab-rfcefdp-rfced-model) RFC Editor Model (Version 3)
+  - Published: RFC 9280 (was draft-iab-rfcefdp-rfced-model) RFC Editor Model (Version 3)
   - draft-iab-aid-workshop-00: Report from the IAB Workshop on Analyzing IETF Data (AID), 2021 -> In RFC editor queue
   - draft-iab-mnqeu-report: IAB workshop report: Measuring Network Quality for End-Users -> In community feedback call
   - draft-iab-path-signals-collaboration: Considerations on Application - Network Collaboration Using Path Signals -> Ready for community feedback call
+  - draft-iab-protocol-maintenance: The Harmful Consequences of the Robustness Principle -> under discussion
 * Program Updates
-  - model-t
+  - Internet Threat Model (model-t) Program
   - Evolvability, Deployability, & Maintainability (EDM) Program
-  - RFC Editor Future Development Program was closed -> Thanks to all, especially the chairs Eliot and Brian and Peter as document editor!
-* Adminstrative Support groups
+  - RFC Editor Future Development Program was closed -> Thanks to all, especially the chairs Eliot & Brian and Peter as document editor!
+* Adminstrative Support Groups
   - New IETF-IEEE Coordination group
   - New IETF-ISOC coordination group
 * Workshops
