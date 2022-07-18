@@ -8,7 +8,7 @@
 
 ## Topics
 
-### Welcome and Status Update (5 mins) -  Mirja/David/Jared
+### Welcome and Status Update (10 mins) -  Mirja/David
 * Document Updates
   - Published: RFC 9280 (was draft-iab-rfcefdp-rfced-model) RFC Editor Model (Version 3)
   - draft-iab-aid-workshop-00: Report from the IAB Workshop on Analyzing IETF Data (AID), 2021 -> In RFC editor queue
@@ -19,7 +19,7 @@
   - Internet Threat Model (model-t) Program
   - Evolvability, Deployability, & Maintainability (EDM) Program
   - RFC Editor Future Development Program was closed -> Thanks to all, especially the chairs Eliot & Brian and Peter as document editor!
-* Adminstrative Support Groups
+* Administrative Support Groups
   - New IETF-IEEE Coordination group
   - New IETF-ISOC coordination group
 * Workshops
