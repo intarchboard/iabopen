@@ -1,8 +1,8 @@
-## IABopen IETF-114
+## IABopen IETF-115
 
-*When:* Tuesday, July 26, 2022, 13:30 - 14:30 UTC-4
+*When:* Tuesday Session IV, Nov 8, 2022, 16:30 - 17:30 UTC
 
-*Where:* Liberty C & [Meetecho](https://meetings.conf.meetecho.com/ietf115/?group=iabopen&short=&item=1)
+*Where:* Kensington 2 & [Meetecho](https://meetings.conf.meetecho.com/ietf115/?group=iabopen&short=&item=1)
 
 *Chairs:* Mirja Kühlewind, Mallory Knodel
 
