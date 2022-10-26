@@ -26,10 +26,10 @@
 
 ### Report: IAB Workshop on Management Technologies in Encrypted Networks (MTEN) (TBD) (5min)
 
-### Partitioning as an Architecture for Privacy: draft-??? (TBD) (5 mins)
+### New draft: Partitioning as an Architecture for Privacy: draft-kpw-iab-privacy-partitioning-00 (TBD) (5 mins)
 
 ### Invited Talks:
 * OONI censorship measuremnts (TBD) (10 mins)
-* Content moderation and misinformation (TBD) (15 mins)
+* Content moderation and misinformation (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
 
 ### Open Mic (5 mins)
