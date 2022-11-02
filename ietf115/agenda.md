@@ -29,6 +29,7 @@
 ### New draft: Partitioning as an Architecture for Privacy: draft-kpw-iab-privacy-partitioning-00 (Tommy) (5 mins)
 
 ### Invited Talks:
-* TBD (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
+* OONI Censorship Measurements in Iran (Simone Basso) (10 mins)
+* Iran's Mahsa Amini Revolution: A Crisis of State Brutality and Technology's Role (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
 
 ### Open Mic (5 mins)
