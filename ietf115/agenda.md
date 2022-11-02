@@ -24,12 +24,11 @@
   
 ### IEEE liaison Update (Russ Housley) (10 mins)
 
-### Report: IAB Workshop on Management Technologies in Encrypted Networks (MTEN) (TBD) (5min)
+### Report: IAB Workshop on Management Technologies in Encrypted Networks (MTEN) (Wes) (5min)
 
-### New draft: Partitioning as an Architecture for Privacy: draft-kpw-iab-privacy-partitioning-00 (TBD) (5 mins)
+### New draft: Partitioning as an Architecture for Privacy: draft-kpw-iab-privacy-partitioning-00 (Tommy) (5 mins)
 
 ### Invited Talks:
-* OONI censorship measuremnts (TBD) (10 mins)
-* Content moderation and misinformation (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
+* TBD (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
 
 ### Open Mic (5 mins)
