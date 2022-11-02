@@ -30,6 +30,6 @@
 
 ### Invited Talks:
 * OONI Censorship Measurements in Iran (Simone Basso) (10 mins)
-* Iran's Mahsa Amini Revolution: A Crisis of State Brutality and Technology's Role (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
+* Iran's Mahsa Amini Revolution: Protest Crises and the Role of Technology (Mahsa Alimardani, Oxford Internet Institute) (15 mins)
 
 ### Open Mic (5 mins)
