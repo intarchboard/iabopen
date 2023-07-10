@@ -8,7 +8,7 @@
 
 ## Topics
 
-### Welcome and Status Update (10 mins) -  Mirja/Suresh
+### Welcome and Status Update - Mirja/Suresh (5 mins)
 * Document Updates
     - RFC9413: draft-iab-protocol-maintenance: Maintaining Robust Protocols
     - RFC9419: draft-iab-path-signals-collaboration: Considerations on Application - Network Collaboration Using Path Signals
@@ -22,13 +22,12 @@
 * Workshops (None)
 * Liaison Updates
   
-### 3GPP liaison Update (10 mins) - Charles Eckel
+### 3GPP liaison Update - Charles Eckel (10 mins)
 
-### WHODIS
+### Invited talk (TBD) (20 mins)
 
-### draft-10years???
+### WHODIS - Chris Wood (30 mins)
 
-### Invited talk?
+### ISE slot: Introduction to draft-farrell-tenyearsafter - Eliot Lear (ISE) (15 mins)
 
-
-### Open Mic (10 mins)
+### IF-TIME-PERMITS: Open Mic
