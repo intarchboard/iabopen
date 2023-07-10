@@ -22,7 +22,7 @@
 * Workshops (None)
 * Liaison Updates
   
-### 3GPP liaison Update - Charles Eckel (10 mins)
+### W3C liaison Update - Martin Thomas (10 mins)
 
 ### Invited talk (TBD) (20 mins)
 
