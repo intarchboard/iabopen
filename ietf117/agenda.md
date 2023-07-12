@@ -22,7 +22,7 @@
 * Workshops (None)
 * Liaison Updates
   
-### W3C liaison Update - Martin Thomson (10 mins)
+### Liaison Update (TBD) (10 mins)
 
 ### Invited talk (TBD) (20 mins)
 
