@@ -27,6 +27,7 @@
 ### Invited talk (TBD) (20 mins)
 
 ### Proposed IAB Technical program on Wholistic Human-Oriented Discussions on Identity Systems (WHODIS) - Chris Wood (30 mins)
+* See https://github.com/intarchboard/proposed-program-whodis
 
 ### ISE slot: Introduction to draft-farrell-tenyearsafter - Eliot Lear (ISE) (15 mins)
 
