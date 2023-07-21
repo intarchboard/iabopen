@@ -22,9 +22,9 @@
 * Workshops (None)
 * Liaison Updates
   
-### Liaison Update (TBD) (10 mins)
+### W3C Liaison Update - Martin Thomson (10 mins)
 
-### Invited talk (TBD) (20 mins)
+### Fragmentation & centralization: Beyond “free” and “closed” - Nick Merrill (20 mins)
 
 ### Proposed IAB Technical program on Wholistic Human-Oriented Discussions on Identity Systems (WHODIS) - Chris Wood (30 mins)
 * See https://github.com/intarchboard/proposed-program-whodis
