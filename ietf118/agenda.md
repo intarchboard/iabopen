@@ -24,6 +24,8 @@
   
 ### TBD-Liason (10 mins)
 
+### Outreach: IAB Outreach coordinator and activities - Dhruv/Mirja (5 mins)
+
 ### Invited Talk: Sandra Elvin (30 mins)
 
 ### Open Mic
