@@ -24,6 +24,6 @@
   
 ### TBD-Liason (10 mins)
 
-### Invited Talk (30 mins)
+### Invited Talk: Sandra Elvin (30 mins)
 
 ### Open Mic
