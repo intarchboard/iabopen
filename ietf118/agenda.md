@@ -22,7 +22,7 @@
     - Barriers to Internet Access of Services (BIAS) (Planned for Jan 2024)
 * Liaison Updates
   
-### TBD-Liason (10 mins)
+### Liason Update:ISO/TC46 - Peter Koch (10 mins)
 
 ### Outreach: IAB Outreach coordinator and activities - Dhruv/Mirja (5 mins)
 
