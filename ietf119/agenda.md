@@ -20,7 +20,7 @@
   
 ### ??? Liaison Update -  (10 mins)
 
-### BIAS Workshops Report - ??? (15 mins)
+### BIAS Workshops Report - Dhruv Dhody (15 mins)
 
 ### The Thread Group - Stuart? (20 mins)
 
