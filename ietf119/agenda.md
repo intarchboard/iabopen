@@ -24,6 +24,6 @@
 
 ### The Thread Group - Stuart Cheshire & Vividh Siddha (20 mins)
 
-### Invited talk: TOLA regulation and encryption - Vanessa Teague, Australian National University, Melbourne  (30 mins)
+### Invited talk: Techniques for detecting known illegal material in end-to-end encrypted communications. Do they work? Are they secure? - Vanessa Teague, Australian National University, Melbourne  (35 mins)
 
 ### IF-TIME-PERMITS: Open Mic
