@@ -6,9 +6,9 @@
 
 *Chairs:* Mirja Kühlewind, Tommy Pauly 
 
-## Topics
+### Angeda
 
-### Welcome and Status Update - Mirja/Tommy (10 mins)
+#### Welcome and Status Update - Mirja/Tommy (10 mins)
 * Document Updates
     - RFC9490: Report from the IAB workshop on Management Techniques in Encrypted Networks (M-TEN)
     - RFC9547: Report from the IAB Workshop on Environmental Impact of Internet Applications and Systems, 2022
@@ -18,12 +18,12 @@
     - e-impact
 * Liaison Updates
   
-### 3GPP Liaison Update - Charles Eckel (10 mins)
+#### 3GPP Liaison Update - Charles Eckel (10 mins)
 
-### BIAS Workshop Report - Dhruv Dhody (15 mins)
+#### BIAS Workshop Report - Dhruv Dhody (15 mins)
 
-### The Thread Group - Stuart Cheshire & Vividh Siddha (20 mins)
+#### The Thread Group - Stuart Cheshire & Vividh Siddha (20 mins)
 
-### Invited talk: Techniques for detecting known illegal material in end-to-end encrypted communications. Do they work? Are they secure? - Vanessa Teague, Australian National University, Melbourne  (35 mins)
+#### Invited talk: Techniques for detecting known illegal material in end-to-end encrypted communications. Do they work? Are they secure? - Vanessa Teague, Australian National University, Melbourne  (35 mins)
 
-### IF-TIME-PERMITS: Open Mic
+#### IF-TIME-PERMITS: Open Mic
