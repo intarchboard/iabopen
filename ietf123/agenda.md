@@ -1,18 +1,14 @@
-COPIED FROM 119 - NEED TO UPDATE EVERYTHING
-
-
-
 ## IABopen IETF-123
 
-*When:* Wednesday, March 20, 2024, Session II 13:00 - 14:30 
+*When:* TBD Day/Date/Time
 
-*Where:* M3 & [Meetecho](https://meetings.conf.meetecho.com/ietf119/?group=iabopen&short=&item=1)
+*Where:* TBD room & [Meetecho](https://meetings.conf.meetecho.com/ietf123/?group=iabopen&short=&item=1)
 
-*Chairs:* Mirja Kühlewind, Tommy Pauly 
+*Chairs:* Mirja Kühlewind, Tommy Pauly (still accurate?)
 
 ### Angeda
 
-#### Welcome and Status Update - Mirja/Tommy (10 mins)
+#### Welcome and Status Update - Chairs (10 mins)
 * Document Updates
     - RFC9490: Report from the IAB workshop on Management Techniques in Encrypted Networks (M-TEN)
     - RFC9547: Report from the IAB Workshop on Environmental Impact of Internet Applications and Systems, 2022
