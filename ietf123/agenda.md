@@ -9,13 +9,19 @@
 ## Agenda (90 mins)
 
 ### Welcome and Status Update - Chairs (10 mins)
+
+### Future Workshops - Chairs (10 mins)
   
 ### Liaison Coordinators Update - Suresh Krishnan, Mirja Kühlewind, Warren Kumari, Qin Wu (10 mins) 
 
 ### WSIS+20 / IGF Updates - SPEAKER(s) - TBD (30 mins)
 
-### Update on Consulation / UN - Mallory Knodel (10 mins)
+#### WSIS+20
 
-### Local Speaker - (Suresh to identify) (10 mins)
+#### IGF Updates
+
+#### Update on Consulation / UN - Mallory Knodel
+
+### ?Local Speaker? - TBD (30 mins)
 
 ### Open Mic (time permitting)
