@@ -1,12 +1,12 @@
 ## IABopen IETF-123
 
-*When:* TBD Day/Date/Time
+*When:* XX July 2025, XX:XX UTC (XX:XX Local Time)
 
 *Where:* TBD room & [Meetecho](https://meetings.conf.meetecho.com/ietf123/?group=iabopen&short=&item=1)
 
 *Chairs:* Tommy Pauly & Jason Livingood
 
-### Angeda
+### Agenda
 
 #### Welcome and Status Update - Chairs (10 mins)
   
