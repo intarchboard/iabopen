@@ -22,7 +22,7 @@
 
 #### Update on Consulation / UN - Mallory Knodel
 
-### ?Local Speaker? - TBD (30 mins)
+### ?Local Speaker? - TBD (30 mins) - Sotiris Salamouris, CTO of Olympic Broadcast Services (to be confirmed)
 - Disaster / power outage / internet dependency issues? (Mirja's idea)
 - Olympic Broadcast Services (local)?
 
