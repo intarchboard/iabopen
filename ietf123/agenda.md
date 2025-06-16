@@ -14,7 +14,7 @@
   
 ### Liaison Coordinators Update - Suresh Krishnan, Mirja Kühlewind, Warren Kumari, Qin Wu (10 mins) 
 
-### WSIS+20 / IGF Updates - SPEAKER(s) - TBD (30 mins)
+### WSIS+20 / IGF Updates - SPEAKER(s) - Mark + Olaf (30 mins)
 
 #### WSIS+20
 
