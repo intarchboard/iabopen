@@ -11,17 +11,18 @@
 ### Welcome and Status Update - Chairs (10 mins)
 
 ### Future Workshops - Chairs (10 mins)
+- IP Geolocation
+- Age Verification
   
 ### Liaison Coordinators Update - Suresh Krishnan, Mirja Kühlewind, Warren Kumari, Qin Wu (10 mins) 
+#### Content details TBD
+#### Content details TBD
+#### Content details TBD
 
-### WSIS+20 / IGF Updates - SPEAKER(s) - Mark + Olaf (30 mins)
+### WSIS+20 and IGF Updates - SPEAKER(s) - TBD (30 mins)
+#### WSIS+20 - Olaf Kolkman and Mark Nottingham
+#### IGF - Mark Nottingham
 
-#### WSIS+20
-
-#### IGF Updates
-
-### ?Local Speaker? - TBD (30 mins) - Sotiris Salamouris, CTO of Olympic Broadcast Services (to be confirmed)
-- Disaster / power outage / internet dependency issues? (Mirja's idea)
-- Olympic Broadcast Services (local)?
+### Local Speaker (30 mins) - Sotiris Salamouris, CTO of Olympic Broadcast Services (to be confirmed)
 
 ### Open Mic (time permitting)
