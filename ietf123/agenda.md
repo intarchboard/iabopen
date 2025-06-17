@@ -15,9 +15,10 @@
 - Age Verification
   
 ### Liaison Coordinators Update - Suresh Krishnan, Mirja Kühlewind, Warren Kumari, Qin Wu (10 mins) 
-- Content details TBD
-- Content details TBD
-- Content details TBD
+- Overview and Status Update Liaisons 
+- Tooling Update
+- RFC Updates (3113bis, 4052bis, 4053bis)
+
 
 ### WSIS+20 and IGF Updates - SPEAKER(s) - TBD (30 mins)
 - WSIS+20 - Olaf Kolkman and Mark Nottingham
