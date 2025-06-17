@@ -14,7 +14,7 @@
 - IP Geolocation
 - Age Verification
   
-### Liaison Coordinators Update - Suresh Krishnan, Mirja Kühlewind, Warren Kumari, Qin Wu (10 mins) 
+### Liaison Coordinators Update - Suresh Krishnan, Mirja Kühlewind, Warren Kumari, Qin Wu (10 mins) [slides](https://docs.google.com/presentation/d/1E0XnlFXGTZjWR_qKkdpDHsARZJVk1UGi7hHPQS_1mAA/edit?usp=sharing)
 - Overview and Status Update Liaisons 
 - Tooling Update
 - RFC Updates (3113bis, 4052bis, 4053bis)
