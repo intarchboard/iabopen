@@ -1,8 +1,8 @@
 # IABopen IETF-123
 
-*When:* XX July 2025, XX:XX-XX:XX UTC (XX:XX-XX:XX Local Time)
+*When:* 23 July 2025, 11:30 - 13:00 Local Time
 
-*Where:* TBD room & [Meetecho](https://meetings.conf.meetecho.com/ietf123/?group=iabopen&short=&item=1)
+*Where:* Auditorio & [Meetecho](https://meetings.conf.meetecho.com/ietf123/?group=iabopen&short=&item=1)
 
 *Chairs:* Tommy Pauly & Jason Livingood
 
@@ -24,6 +24,6 @@
 - WSIS+20 - Olaf Kolkman and Mark Nottingham
 - IGF - Mark Nottingham
 
-### Local Speaker (30 mins) - Sotiris Salamouris, CTO of Olympic Broadcast Services (to be confirmed)
+### Local Speaker (30 mins) - Guillermo Jimenez, Director of Broadcast Engineering - [Olympic Broadcast Services ]([url](https://www.obs.tv/home))
 
 ### Open Mic (time permitting)
