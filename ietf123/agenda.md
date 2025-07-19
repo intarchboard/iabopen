@@ -20,11 +20,11 @@
 - RFC Updates (3113bis, 4052bis, 4053bis)
 
 
-### WSIS+20 and IGF Updates - Olaf Kolkman, Mark Nottingham, Mirja Kühlewind, Roman Danyliw, Dhruv Dhody (30 mins)
+### WSIS+20 and IGF Updates - Olaf Kolkman, Dhruv Dhody, Mirja Kühlewind, Roman Danyliw (30 mins)
 - WSIS+20 and IGF recap - Olaf
-- IGF session - Mark
+- IGF session - Dhruv
 - WSIS+20 participation - Mirja
-- WSIS Elements Paper submission - Roman / Dhruv
+- WSIS Elements Paper submission - Roman
 
 
 ### Local Speaker (30 mins) - Guillermo Jimenez, Director of Broadcast Engineering - [Olympic Broadcast Services ]([url](https://www.obs.tv/home))
