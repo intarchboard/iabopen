@@ -17,8 +17,8 @@
 ### Open Mic (time permitting)
 
 ## Possible Topics
-- Grease I-D
 - Outreach update
 - Future PQC Workshop
 - Any ISOC topic
-- 
+- 4052bis and 4053bis?
+- draft-iab-protocol-greasing
