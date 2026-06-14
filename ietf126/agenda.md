@@ -12,12 +12,13 @@
 
 ### Liason Update: TBD
 
+### Outreach update - Yarolsav
+
 ### Local Speaker (30 mins) - TBD
 
 ### Open Mic (time permitting)
 
 ## Possible Topics
-- Outreach update
 - Future PQC Workshop
 - Any ISOC topic
 - 4052bis and 4053bis?
