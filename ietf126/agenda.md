@@ -10,11 +10,11 @@
 
 ### Welcome and Status Update - Chairs (10 mins)
 
-### Liason Update: TBD
+### Liason Update: IEEE 802 (TBC)
 
 ### Outreach update - Yarolsav
 
-### draft-iab-protocol-greasing
+### draft-iab-protocol-greasing - Tommy
 
 ### Local Speaker (30 mins) - TBD
 
