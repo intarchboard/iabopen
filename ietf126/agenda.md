@@ -14,6 +14,8 @@
 
 ### Outreach update - Yarolsav
 
+### draft-iab-protocol-greasing
+
 ### Local Speaker (30 mins) - TBD
 
 ### Open Mic (time permitting)
@@ -22,4 +24,3 @@
 - Future PQC Workshop
 - Any ISOC topic
 - 4052bis and 4053bis?
-- draft-iab-protocol-greasing
