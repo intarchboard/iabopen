@@ -10,7 +10,7 @@
 
 ### Welcome and Status Update - Chairs (10 mins)
 
-### Liason Update: IEEE 802 (TBC)
+### Liason Update: IEEE 802.1 (Janos)
 
 ### Outreach update - Yarolsav
 
