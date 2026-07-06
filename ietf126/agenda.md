@@ -12,7 +12,7 @@
 
 ### Liaison Update: IEEE 802.1 (Janos) (10 mins)
 
-### 4052bis and 4053bis updaes: Suresh (10 mins) 
+### 4052bis and 4053bis updates: Suresh (10 mins) 
 
 ### Outreach update - Yarolsav (10 mins)
 
