@@ -18,7 +18,7 @@
 
 ### draft-iab-protocol-greasing - Tommy (10 mins)
 
-### Local Speaker (30 mins) - TBD
+### Invited Local Speaker - Louise Beltzung (30 mins)
 
 ### Open Mic (time permitting)
 
