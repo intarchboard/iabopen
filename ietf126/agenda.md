@@ -8,17 +8,32 @@
 
 ## Agenda (90 mins)
 
-### Welcome and Status Update - Chairs (10 mins)
+### Welcome and Status Update 
+- Chairs
+- 10 mins
 
-### Liaison Update: IEEE 802.1 (Janos) (10 mins)
+### Liaison Update: IEEE 802.1 
+- Janos Farkas
+- 10 mins
 
-### 4052bis and 4053bis updates: Suresh (10 mins) 
+### Liason process documents update 
+- Suresh Krishnan
+- 10 mins 
+- [draft-iab-rfc4052bis](https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/)
+- [draft-iab-rfc4053bis](https://datatracker.ietf.org/doc/draft-iab-rfc4053bis/)
 
-### Outreach update - Yarolsav (10 mins)
+### Outreach update
+- Yarolsav Rosomakho
+- 10 mins
 
-### draft-iab-protocol-greasing - Tommy (10 mins)
+### Considerations For Maintaining Protocols Using Grease and Variability
+- Tommy Pauly
+- 10 mins
+- [draft-iab-protocol-greasing](https://datatracker.ietf.org/doc/draft-iab-protocol-greasing/)
 
-### Invited Local Speaker - Louise Beltzung (30 mins)
+### Invited Local Speaker
+- [Louise Beltzung](https://www.linkedin.com/in/louisebeltzung/)
+- 30 mins
 
 ### Open Mic (time permitting)
 
