@@ -1,7 +1,9 @@
 # IABOpen at IETF-126
 
 *When:* 2026-07-21 09:00-10:30 CEST
+
 *Where:* Grand Park Hall 3 & [Meetecho](https://meetings.conf.meetecho.com/ietf126/?session=35589)
+
 *Chairs:* Dhruv Dhody & Yaroslav Rosomakho
 
 ## Agenda (90 mins)
