@@ -1,9 +1,7 @@
 # IABOpen at IETF-126
 
 *When:* 2026-07-21 09:00-10:30 CEST
-
 *Where:* Grand Park Hall 3 & [Meetecho](https://meetings.conf.meetecho.com/ietf126/?session=35589)
-
 *Chairs:* Dhruv Dhody & Yaroslav Rosomakho
 
 ## Agenda (90 mins)
@@ -16,13 +14,13 @@
 - Janos Farkas
 - 10 mins
 
-### Liason process documents update 
+### Liason Process Documents Updates 
 - Suresh Krishnan
 - 10 mins 
 - [draft-iab-rfc4052bis](https://datatracker.ietf.org/doc/draft-iab-rfc4052bis/)
 - [draft-iab-rfc4053bis](https://datatracker.ietf.org/doc/draft-iab-rfc4053bis/)
 
-### Outreach update
+### Outreach Update
 - Yarolsav Rosomakho
 - 10 mins
 
@@ -35,7 +33,8 @@
 - [Louise Beltzung](https://www.linkedin.com/in/louisebeltzung/)
 - 30 mins
 
-### Open Mic (time permitting)
+### Open Mic 
+- *time permitting*
 
 -----
 *Remove this before posting!*
