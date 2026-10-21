@@ -1,7 +1,7 @@
 # IABOpen at IETF-127
-When: TBD
-Where: TDB
-Chairs: Dhruv Dhody & Nick Sullivan
+- When: TBD
+- Where: TDB
+- Chairs: Dhruv Dhody & Nick Sullivan
 
 ## Agenda (90 mins)
 ### Welcome and Status Update
