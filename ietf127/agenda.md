@@ -10,7 +10,7 @@ Chairs
 ### IAB PQ Authentication Workshop
 Nick/Yaroslav/Suresh
 15 mins
-### Liaison Coordinator Update
+### Liaison Coordinators Update
 Suresh
 15 mins
 ### Invited Local Speaker
